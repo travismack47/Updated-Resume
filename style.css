@@ -1,1 +1,16 @@
+body {
+  background-color: blanchedalmond;
+}
 
+p, h1, h3 {
+  font-family: arial, helvetica, sans-serif;
+}
+
+.datePTag {
+  float: right;
+  margin-top: -67px;
+}
+
+#nameH1 {
+  color: crimson;
+}
